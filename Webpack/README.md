@@ -1,1 +1,1 @@
-Webpack basic Installation
+These are scripts for webpack
