@@ -16,7 +16,7 @@
     "output",
     "webpack plugins"
   ],
-  "author": "Brian Muli",
+  "author": "Christabel M",
   "license": "ISC",
   "devDependencies": {
     "webpack": "^5.50.0",

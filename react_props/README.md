@@ -1,1 +1,1 @@
-These are scripts for react_props
+These are scripts for react props
