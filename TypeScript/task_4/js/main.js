@@ -4,7 +4,7 @@ var Subjects;
     Subjects.java = new Java();
     Subjects.react = new React();
     Subjects.cTeacher = {
-        firstName: "Brian",
+        firstName: "Christabel M",
         lastName: "Muli",
         experienceTeachingC: 10,
     };

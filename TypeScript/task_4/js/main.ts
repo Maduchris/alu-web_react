@@ -4,7 +4,7 @@ namespace Subjects {
     export const react =  new React();
 
     export const cTeacher: Teacher = {
-        firstName: "Brian",
+        firstName: "Christabel M",
         lastName: "Muli",
         experienceTeachingC: 10,
     };
